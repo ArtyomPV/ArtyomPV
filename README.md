@@ -26,14 +26,6 @@ Here are some ideas to get you started:
 ---
 ### :hammer_and_wrench: Languages and Tools :
 <div>
-  <img src="https://cdn-icons-png.flaticon.com/512/7187/7187399.png" title="Functional testing" alt="Functional testing" width="40" height="40"/>&nbsp;
-  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968350.png" title="Python" alt="Python" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/Lexxx42/Lexxx42.github.io/blob/main/images/Pytest.png" title="Pytest" alt="Pytest" width="40" height="40"/>&nbsp;
-  <img src="https://cdn-icons-png.flaticon.com/512/5936/5936927.png" title="Selenium" alt="Selenium" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/Lexxx42/Lexxx42.github.io/blob/main/images/allure.png" title="Allure" alt="Allure" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/Lexxx42/Lexxx42.github.io/blob/main/images/postman-logo.png" title="Postman" alt="Postman" width="40" height="40"/>&nbsp;
-  <img src="https://cdn-icons-png.flaticon.com/512/2504/2504881.png" title="Android Studio" alt="Android Studio" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/Lexxx42/Lexxx42.github.io/blob/main/images/qase.png" title="Qase" alt="Qase" width="40" height="40"/>&nbsp;
   <img src="https://cdn-icons-png.flaticon.com/512/4494/4494748.png" title="Git" alt="Git" width="40" height="40"/>&nbsp;
   <img src="https://cdn-icons-png.flaticon.com/512/2111/2111656.png" title="Trello" alt="Trello" width="40" height="40"/>&nbsp;
   <img src="https://cdn-icons-png.flaticon.com/512/5968/5968875.png" title="Jira" alt="Jira" width="40" height="40"/>&nbsp;

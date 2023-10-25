@@ -8,7 +8,7 @@
 🌐 Знаю английский язык на уровне B2
 
 Как со мной связаться
-Telegram 
+Telegram <https://t.me/ArtyomPrusov>
 <!--
 **ArtyomPV/ArtyomPV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
